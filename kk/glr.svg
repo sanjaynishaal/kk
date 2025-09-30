@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1039.25 227.88">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+        font-size: 102.43px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #cdac5f;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #1c3f6d;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #1c3f6d;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        font-family: CascadiaCode-Regular, 'Cascadia Code';
+        font-size: 32.22px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-1" transform="translate(702.47 100.74)"><tspan x="0" y="0">min</tspan><tspan class="cls-6" x="118.51" y="0">e</tspan><tspan x="155.89" y="0">s and</tspan><tspan x="0" y="102.47">minerals</tspan></text>
+    <path class="cls-3" d="M167.55,2.04l-32.13,51.16c-36.37-8.8-71.77,11.25-81.36,41.79-11.19,35.65,14.86,79.04,45.11,80.02,26.91.87,45.77-32.16,46.65-33.76h-31.83v-54.43h46.11l32.72,51.46c-9.43,53.09-51.79,89.88-95.18,89.61-43.43-.27-74.45-37.59-86.82-63.39C1.18,144.37.39,126.07.13,118.09c-.36-10.96-1.51-45.6,22.81-76.15C44.02,15.46,74.44,4.38,95.56,2.04c11.35-1.26,29.74-1.07,42.59-.94,12.23.12,22.37.56,29.4.94Z"/>
+    <polygon class="cls-3" points="192.83 1 160.95 54.54 221.04 54.54 221.04 227.88 378.69 227.88 345.68 175.6 268.34 175.6 268.34 1 192.83 1"/>
+    <path class="cls-3" d="M370.37,1v175.79l31.53,51.09h16.36V56.32h15.77c19.87-.88,35.64,15.76,34.5,33.61-1.05,16.47-16.26,30.36-34.5,29.45h-8.92l52.65,108.5h55.03l-46.11-82.03c5.01-4.67,25.78-25.08,27.96-58,2.81-42.46-27.68-69.53-31.23-72.58-3.01-2.65-7.15-5.8-12.49-8.63-5.64-2.98-10.84-4.66-14.87-5.65h-85.67Z"/>
+    <circle class="cls-5" cx="558.41" cy="26.63" r="25.63"/>
+    <text class="cls-4" transform="translate(547.35 38.28) scale(1.2 1)"><tspan x="0" y="0">R</tspan></text>
+    <rect class="cls-2" x="629.45" y="1" width="10.71" height="226.88"/>
+  </g>
+</svg>
